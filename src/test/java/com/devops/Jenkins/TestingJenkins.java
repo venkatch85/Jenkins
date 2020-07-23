@@ -11,6 +11,8 @@ public class TestingJenkins {
 	{
 		App.hello();
 		System.out.println("Testing Jenkins GIt Integration");
+		System.out.println("Testing Jenkins GIt Integration 1");
+
 	}
 
 }
