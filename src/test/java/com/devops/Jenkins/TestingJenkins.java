@@ -10,6 +10,7 @@ public class TestingJenkins {
 	public void test()
 	{
 		App.hello();
+		System.out.println("Testing Jenkins GIt Integration");
 	}
 
 }
